@@ -25,3 +25,6 @@ print(c.mean())
 
 #max
 print(a.max())
+
+
+print(torch.tensor([[1,2,4],[5,9,8]]))
